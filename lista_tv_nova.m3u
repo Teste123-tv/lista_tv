@@ -1,4 +1,60 @@
 #EXTM3U
+
+############################################################################ Canais | ABERTOS
+
+#EXTINF:-1 tvg-id="Abertos" tvg-name="Band FHD" tvg-logo="" group-title="Canais | ABERTOS",Band FHD
+http://supersonictv.live:8080/968896/903421/84940
+
+#EXTINF:-1 tvg-id="Abertos" tvg-name="Gloob FHD" tvg-logo="" group-title="Canais | ABERTOS",Gloob FHD
+http://supersonictv.live:8080/968896/903421/85030
+
+#EXTINF:-1 tvg-id="Abertos" tvg-name="NSC TV Blumenau FHD" tvg-logo="" group-title="Canais | ABERTOS",NSC TV Blumenau FHD
+http://supersonictv.live:8080/968896/903421/85057
+
+#EXTINF:-1 tvg-id="Abertos" tvg-name="Globo NSC Florianopolis FHD" tvg-logo="" group-title="Canais | ABERTOS",Globo NSC Florianopolis FHD
+http://supersonictv.live:8080/968896/903421/85007
+
+#EXTINF:-1 tvg-id="Abertos" tvg-name="GLOBO RBS PORTO ALEGRE SD#" tvg-logo="" group-title="Canais | ABERTOS",GLOBO RBS PORTO ALEGRE SD#
+http://supersonictv.live:8080/968896/903421/85008
+
+#EXTINF:-1 tvg-id="Abertos" tvg-name="Globo RPC Curitiba FHD" tvg-logo="" group-title="Canais | ABERTOS",Globo RPC Curitiba FHD
+http://supersonictv.live:8080/968896/903421/85013
+
+#EXTINF:-1 tvg-id="Abertos" tvg-name="GLOBO RIO HD#" tvg-logo="" group-title="Canais | ABERTOS",GLOBO RIO HD#
+http://supersonictv.live:8080/968896/903421/85011
+
+#EXTINF:-1 tvg-id="Abertos" tvg-name="Globo RJ FHD" tvg-logo="" group-title="Canais | ABERTOS",Globo RJ FHD
+http://supersonictv.live:8080/968896/903421/85012
+
+#EXTINF:-1 tvg-id="Abertos" tvg-name="GLOBO SP FHD" tvg-logo="" group-title="Canais | ABERTOS",GLOBO SP FHD
+http://supersonictv.live:8080/968896/903421/85015
+
+#EXTINF:-1 tvg-id="Abertos" tvg-name="Record FHD" tvg-logo="" group-title="Canais | ABERTOS",Record FHD
+http://supersonictv.live:8080/968896/903421/85075
+
+#EXTINF:-1 tvg-id="Abertos" tvg-name="Record HD" tvg-logo="" group-title="Canais | ABERTOS",Record HD
+http://supersonictv.live:8080/968896/903421/85077
+
+#EXTINF:-1 tvg-id="Abertos" tvg-name="Record RS HD" tvg-logo="" group-title="Canais | ABERTOS",Record RS HD
+http://supersonictv.live:8080/968896/903421/85082
+
+#EXTINF:-1 tvg-id="Abertos" tvg-name="RECORD RS*" tvg-logo="" group-title="Canais | ABERTOS",RECORD RS*
+http://supersonictv.live:8080/968896/903421/85083
+
+#EXTINF:-1 tvg-id="Abertos" tvg-name="Record SP HD" tvg-logo="" group-title="Canais | ABERTOS",Record SP HD
+http://supersonictv.live:8080/968896/903421/85084
+
+#EXTINF:-1 tvg-id="Abertos" tvg-name="RECORD*" tvg-logo="" group-title="Canais | ABERTOS",RECORD*
+http://supersonictv.live:8080/968896/903421/85085
+
+#EXTINF:-1 tvg-id="Abertos" tvg-name="Rede TV FHD" tvg-logo="" group-title="Canais | ABERTOS",Rede TV FHD
+http://supersonictv.live:8080/968896/903421/85088
+
+#EXTINF:-1 tvg-id="Abertos" tvg-name="SBT FHD" tvg-logo="" group-title="Canais | ABERTOS",SBT FHD
+http://supersonictv.live:8080/968896/903421/85089
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="[BR] A&E FHD" tvg-logo="" group-title="BRAZIL",[BR] A&E FHD
 http://supersonictv.live:8080/968896/903421/84935
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Animal Planet FHD" tvg-logo="" group-title="BRAZIL",[BR] Animal Planet FHD
